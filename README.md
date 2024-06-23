@@ -2,7 +2,7 @@
 This project is one where you type a prompt into the
 terminal input, and it outputs some text. 
 ## Instructions
-First, if you _don't_ have Python, get it from **[here][1]**.
+First, if you _don't_ have Python, get it from <https://python.org/downloads>.
 
 **MAKE SURE TO INSTALL VERSION 3.0 OR LATER.**
 
