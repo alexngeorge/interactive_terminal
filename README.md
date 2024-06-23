@@ -6,7 +6,7 @@ First, if you _don't_ have Python, get it from <https://python.org/downloads>.
 
 **MAKE SURE TO INSTALL VERSION 3.0 OR LATER.**
 
-Then, download the entire _folder_ from the page - **make sure you move it to your desktop!**
+Then, download _only the **interactive_terminal.py** file_ from the this GitHub page - **make sure you move it to your desktop!**
 
 Then, open your **Terminal** app. Type in `cd INTERACTIVE_TERMINAL`. 
 
